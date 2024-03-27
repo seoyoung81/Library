@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page](README.md)
+* [리팩터링 2판](README.md)
