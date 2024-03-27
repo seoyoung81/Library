@@ -1,6 +1,7 @@
 # Table of contents
 
-* [👋 Welcome!](README.md)
+* [📓 리팩터링 2판](README.md)
+* [👋 Welcome!](<README (1).md>)
 
 ## About us
 
