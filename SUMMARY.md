@@ -1,7 +1,7 @@
 # Table of contents
 
 * [📓 리팩터링 2판](README.md)
-  * [1️⃣ 1️⃣ CHAPTER 01 리팩터링: 첫 번째 예시](refactoring/chapter01/README.md)
+  * [1️⃣ 1️⃣ 1️⃣ CHAPTER 01 리팩터링: 첫 번째 예시](refactoring/chapter01/README.md)
     * [✏️ 1.1 자, 시작해보자!](refactoring/chapter01/1.1.md)
     * [✏️ 1.2 예시 프로그램을 본 소감](refactoring/chapter01/1.2.md)
     * [✏️ 1.3 리팩터링의 첫 단계](refactoring/chapter01/1.3.md)
@@ -15,4 +15,4 @@
 
 ***
 
-* [Untitled](untitled.md)
+* [Readme](readme.md)
