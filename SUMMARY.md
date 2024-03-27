@@ -12,7 +12,3 @@
 
 * [💖 Values](example/values.md)
 * [👋 Welcome!](example/welcome.md)
-
-***
-
-* [Readme](readme.md)
