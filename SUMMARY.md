@@ -9,6 +9,7 @@
     * [✏️ 1.4 statement() 함수 쪼개기](refactoring/chapter01/1.4-statement.md)
     * [✏️ 1.5 중간 점검: 난무하는 중첩 함수](refactoring/chapter01/1.5.md)
     * [✏️ 1.6 계산 단계와 포맷팅 단계 분리하기](refactoring/chapter01/1.6.md)
+    * [✏️ 1.7 중간 점검: 두 파일(과 두 단계)로 분리됨](refactoring/chapter01/1.7.md)
   * [2️⃣ CHAPTER 02 리팩터링 원칙](refactoring/chapter-02/README.md)
     * [✏️ 2.1 리팩터링 정의](refactoring/chapter-02/2.1.md)
     * [✏️ 2.2 두 개의 모자](refactoring/chapter-02/2.2.md)
