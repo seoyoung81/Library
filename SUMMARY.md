@@ -11,6 +11,8 @@
     * [✏️ 1.6 계산 단계와 포맷팅 단계 분리하기](refactoring/chapter01/1.6.md)
     * [✏️ 1.7 중간 점검: 두 파일(과 두 단계)로 분리됨](refactoring/chapter01/1.7.md)
     * [✏️ 1.8 다형성을 활용해 계산 코드 재구성하기](refactoring/chapter01/1.8.md)
+    * [✏️ 1.9 상태 점검: 다형성을 활용하여 데이터 생성하기](refactoring/chapter01/1.9.md)
+    * [✏️ 1.10 마치며](refactoring/chapter01/1.10.md)
   * [2️⃣ CHAPTER 02 리팩터링 원칙](refactoring/chapter02/README.md)
     * [✏️ 2.1 리팩터링 정의](refactoring/chapter02/2.1.md)
     * [✏️ 2.2 두 개의 모자](refactoring/chapter02/2.2.md)
