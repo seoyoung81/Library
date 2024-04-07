@@ -18,4 +18,5 @@
     * [✏️ 2.2 두 개의 모자](refactoring/chapter02/2.2.md)
     * [✏️ 2.3 리팩터링하는 이유](refactoring/chapter02/2.3.md)
     * [✏️ 2.4 언제 리팩터링해야 할까?](refactoring/chapter02/2.4.md)
-  * [3️⃣ CHAPTER 03 코드에서 나는 악취](refactoring/chapter-03.md)
+  * [3️⃣ CHAPTER 03 코드에서 나는 악취](refactoring/chapter-03/README.md)
+    * [✏️ 3.1 기이한 이름](refactoring/chapter-03/3.1.md)
