@@ -20,3 +20,5 @@
     * [✏️ 2.4 언제 리팩터링해야 할까?](refactoring/chapter02/2.4.md)
   * [3️⃣ CHAPTER 03 코드에서 나는 악취](refactoring/chapter-03/README.md)
     * [✏️ 3.1 기이한 이름](refactoring/chapter-03/3.1.md)
+    * [✏️ 3.2 중복 코드](refactoring/chapter-03/3.2.md)
+    * [✏️ 3.3 긴 함수](refactoring/chapter-03/3.3.md)
