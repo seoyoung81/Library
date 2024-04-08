@@ -22,3 +22,6 @@
     * [✏️ 3.1 기이한 이름](refactoring/chapter-03/3.1.md)
     * [✏️ 3.2 중복 코드](refactoring/chapter-03/3.2.md)
     * [✏️ 3.3 긴 함수](refactoring/chapter-03/3.3.md)
+    * [✏️ 3.4 긴 매개변수 목록](refactoring/chapter-03/3.4.md)
+    * [✏️ 3.5 전역 데이터](refactoring/chapter-03/3.5.md)
+    * [✏️ 3.6 가변 데이터](refactoring/chapter-03/3.6.md)
