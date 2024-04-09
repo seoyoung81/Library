@@ -25,3 +25,8 @@
     * [✏️ 3.4 긴 매개변수 목록](refactoring/chapter-03/3.4.md)
     * [✏️ 3.5 전역 데이터](refactoring/chapter-03/3.5.md)
     * [✏️ 3.6 가변 데이터](refactoring/chapter-03/3.6.md)
+    * [✏️ 3.7 뒤엉킨 변경](refactoring/chapter-03/3.7.md)
+    * [✏️ 3.8 산탄총 수술](refactoring/chapter-03/3.8.md)
+    * [✏️ 3.9 기능 편애](refactoring/chapter-03/3.9.md)
+    * [✏️ 3.10 데이터 뭉치](refactoring/chapter-03/3.10.md)
+    * [✏️ 3.11 기본형 집착](refactoring/chapter-03/3.11.md)
