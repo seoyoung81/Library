@@ -43,3 +43,4 @@
     * [✏️ 3.22 데이터 클래스](refactoring/chapter03/3.22.md)
     * [✏️ 3.23 상속 포기](refactoring/chapter03/3.23.md)
     * [✏️ 3.24 주석](refactoring/chapter03/3.24.md)
+  * [4️⃣ CHAPTER 04 테스트 구축하기](refactoring/chapter-04.md)
