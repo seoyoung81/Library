@@ -54,3 +54,6 @@
   * [5️⃣ CHAPTER 05 리팩터링 카탈로그 보는 법](refactoring/chapter05/README.md)
     * [✏️ 5.1 리팩터링 설명 형식](refactoring/chapter05/5.1.md)
     * [✏️ 5.2 리팩터링 기법 선정 기준](refactoring/chapter05/5.2.md)
+  * [6️⃣ 기본적인 리팩터링](refactoring/undefined/README.md)
+    * [✏️ 6.1 함수 추출하기 (Extract Function)](refactoring/undefined/6.1-extract-function.md)
+    * [✏️ 6.2 함수 인라인하기 (Inline Function)](refactoring/undefined/6.2-inline-function.md)
