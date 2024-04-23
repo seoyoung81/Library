@@ -57,3 +57,6 @@
   * [6️⃣ 기본적인 리팩터링](refactoring/undefined/README.md)
     * [✏️ 6.1 함수 추출하기 (Extract Function)](refactoring/undefined/6.1-extract-function.md)
     * [✏️ 6.2 함수 인라인하기 (Inline Function)](refactoring/undefined/6.2-inline-function.md)
+    * [✏️ 6.3 변수 추출하기 ( Extract Variable)](refactoring/undefined/6.3-extract-variable.md)
+    * [✏️ 6.4 변수 인라인하기 (Inline Variable)](refactoring/undefined/6.4-inline-variable.md)
+    * [✏️ 6.5 함수 선언 바꾸기 (Change Function Declaration)](refactoring/undefined/6.5-change-function-declaration.md)
