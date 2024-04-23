@@ -60,3 +60,5 @@
     * [✏️ 6.3 변수 추출하기 ( Extract Variable)](refactoring/undefined/6.3-extract-variable.md)
     * [✏️ 6.4 변수 인라인하기 (Inline Variable)](refactoring/undefined/6.4-inline-variable.md)
     * [✏️ 6.5 함수 선언 바꾸기 (Change Function Declaration)](refactoring/undefined/6.5-change-function-declaration.md)
+    * [✏️ 6.6 변수 캡슐화하기 (Encapsulate Variable)](refactoring/undefined/6.6-encapsulate-variable.md)
+    * [✏️ 6.7 변수 이름 바꾸기 (Rename Variable)](refactoring/undefined/6.7-rename-variable.md)
