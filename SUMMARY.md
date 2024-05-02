@@ -63,3 +63,6 @@
     * [✏️ 6.6 변수 캡슐화하기 (Encapsulate Variable)](refactoring/chapter06/6.6-encapsulate-variable.md)
     * [✏️ 6.7 변수 이름 바꾸기 (Rename Variable)](refactoring/chapter06/6.7-rename-variable.md)
     * [✏️ 6.8 매개변수 객체 만들기 (Introduce Parameter Object)](refactoring/chapter06/6.8-introduce-parameter-object.md)
+    * [✏️ 6.9 여러 함수를 클래스로 묶기 (Combine Functions into Class)](refactoring/chapter06/6.9-combine-functions-into-class.md)
+    * [✏️ 6.10 여러 함수를 변환 함수로 묶기 (Combine Functions into Transform)](refactoring/chapter06/6.10-combine-functions-into-transform.md)
+    * [✏️ 6.11 단계 쪼개기 (Split Phase)](refactoring/chapter06/6.11-split-phase.md)
