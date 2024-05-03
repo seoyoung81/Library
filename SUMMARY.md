@@ -66,3 +66,6 @@
     * [✏️ 6.9 여러 함수를 클래스로 묶기 (Combine Functions into Class)](refactoring/chapter06/6.9-combine-functions-into-class.md)
     * [✏️ 6.10 여러 함수를 변환 함수로 묶기 (Combine Functions into Transform)](refactoring/chapter06/6.10-combine-functions-into-transform.md)
     * [✏️ 6.11 단계 쪼개기 (Split Phase)](refactoring/chapter06/6.11-split-phase.md)
+  * [7️⃣ CHAPTER 07 캡슐화](refactoring/chapter-07/README.md)
+    * [✏️ 7.1 레코드 캡슐화하기 (Encapsulate Record)](refactoring/chapter-07/7.1-encapsulate-record.md)
+    * [✏️ 7.2 컬렉션 캡슐화하기 (Encapsulate Collection)](refactoring/chapter-07/7.2-encapsulate-collection.md)
