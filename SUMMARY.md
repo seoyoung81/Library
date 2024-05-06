@@ -69,3 +69,4 @@
   * [7️⃣ CHAPTER 07 캡슐화](refactoring/chapter-07/README.md)
     * [✏️ 7.1 레코드 캡슐화하기 (Encapsulate Record)](refactoring/chapter-07/7.1-encapsulate-record.md)
     * [✏️ 7.2 컬렉션 캡슐화하기 (Encapsulate Collection)](refactoring/chapter-07/7.2-encapsulate-collection.md)
+    * [✏️ 7.3 기본형을 객체로 바꾸기 (Replace Primitive with Object)](refactoring/chapter-07/7.3-replace-primitive-with-object.md)
