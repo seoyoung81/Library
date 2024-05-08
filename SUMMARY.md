@@ -71,3 +71,4 @@
     * [✏️ 7.2 컬렉션 캡슐화하기 (Encapsulate Collection)](refactoring/chapter-07/7.2-encapsulate-collection.md)
     * [✏️ 7.3 기본형을 객체로 바꾸기 (Replace Primitive with Object)](refactoring/chapter-07/7.3-replace-primitive-with-object.md)
     * [✏️ 7.4 임시 변수를 질의 함수로 바꾸기](refactoring/chapter-07/7.4.md)
+    * [✏️ 7.6 클래스 인라인하기](refactoring/chapter-07/7.6.md)
