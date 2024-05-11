@@ -74,3 +74,4 @@
     * [✏️ 7.6 클래스 인라인하기](refactoring/chapter-07/7.6.md)
     * [✏️ 7.7 위임 숨기기](refactoring/chapter-07/7.7.md)
     * [✏️ 7.8 중개자 제거하기](refactoring/chapter-07/7.8.md)
+    * [✏️ 7.9 알고리즘 교체하기 (Subsititue Algorithm)](refactoring/chapter-07/7.9-subsititue-algorithm.md)
