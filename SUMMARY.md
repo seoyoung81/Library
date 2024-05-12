@@ -75,3 +75,6 @@
     * [✏️ 7.7 위임 숨기기](refactoring/chapter-07/7.7.md)
     * [✏️ 7.8 중개자 제거하기](refactoring/chapter-07/7.8.md)
     * [✏️ 7.9 알고리즘 교체하기 (Subsititue Algorithm)](refactoring/chapter-07/7.9-subsititue-algorithm.md)
+  * [8️⃣ CHAPTER 08 기능 이동](refactoring/chapter-08/README.md)
+    * [✏️ 8.1 함수 옮기기 (Move Function)](refactoring/chapter-08/8.1-move-function.md)
+    * [✏️ 8.2 필드 옮기기 (Move Field)](refactoring/chapter-08/8.2-move-field.md)
