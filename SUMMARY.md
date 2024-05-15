@@ -82,3 +82,7 @@
     * [✏️ 8.3 문장을 함수로 옮기기 (Move Statements into Function)](refactoring/chapter-08/8.3-move-statements-into-function.md)
     * [✏️ 8.4 문장을 호출한 곳으로 옮기기 (Move Statements to Callers)](refactoring/chapter-08/8.4-move-statements-to-callers.md)
     * [✏️ 8.5 인라인 코드를 함수 호출로 바꾸기 (Replace Inline Code with Function Call)](refactoring/chapter-08/8.5-replace-inline-code-with-function-call.md)
+    * [✏️ 8.6 문장 슬라이드하기 (Slide Statements)](refactoring/chapter-08/8.6-slide-statements.md)
+    * [✏️ 8.7 반복문 쪼개기 (Split Loop)](refactoring/chapter-08/8.7-split-loop.md)
+    * [✏️ 8.8 반복문을 파이프라인으로 바꾸기 (Replace Loop with Pipeline)](refactoring/chapter-08/8.8-replace-loop-with-pipeline.md)
+    * [✏️ 8.9 죽은 코드 제거하기 (Remove Dead Code)](refactoring/chapter-08/8.9-remove-dead-code.md)
