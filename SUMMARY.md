@@ -86,3 +86,5 @@
     * [✏️ 8.7 반복문 쪼개기 (Split Loop)](refactoring/chapter-08/8.7-split-loop.md)
     * [✏️ 8.8 반복문을 파이프라인으로 바꾸기 (Replace Loop with Pipeline)](refactoring/chapter-08/8.8-replace-loop-with-pipeline.md)
     * [✏️ 8.9 죽은 코드 제거하기 (Remove Dead Code)](refactoring/chapter-08/8.9-remove-dead-code.md)
+  * [9️⃣ CHAPTER 09 데이터 조직화](refactoring/chapter-09/README.md)
+    * [✏️ 9.1 변수 쪼개기 (Split Variable)](refactoring/chapter-09/9.1-split-variable.md)
