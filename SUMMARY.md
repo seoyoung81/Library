@@ -88,3 +88,8 @@
     * [✏️ 8.9 죽은 코드 제거하기 (Remove Dead Code)](refactoring/chapter-08/8.9-remove-dead-code.md)
   * [9️⃣ CHAPTER 09 데이터 조직화](refactoring/chapter-09/README.md)
     * [✏️ 9.1 변수 쪼개기 (Split Variable)](refactoring/chapter-09/9.1-split-variable.md)
+    * [✏️ 9.2 필드 이름 바꾸기 (Rename Field)](refactoring/chapter-09/9.2-rename-field.md)
+    * [✏️ 9.3 파생 변수를 질의 함수로 바꾸기 (Replace Derived Variable with Query)](refactoring/chapter-09/9.3-replace-derived-variable-with-query.md)
+    * [✏️ 9.4 참조를 값으로 바꾸기 (Change Reference to Value)](refactoring/chapter-09/9.4-change-reference-to-value.md)
+    * [✏️ 9.5 값을 참조로 바꾸기 (Change Value to Reference)](refactoring/chapter-09/9.5-change-value-to-reference.md)
+    * [✏️ 9.6 매직 리터럴 바꾸기 (Replace Magic Literal)](refactoring/chapter-09/9.6-replace-magic-literal.md)
