@@ -121,7 +121,7 @@
     * [✏️ 12.3 생성자 본문 올리기](refactoring/chapter-12/12.3.md)
     * [✏️ 12.4 메서드 내리기](refactoring/chapter-12/12.4.md)
     * [✏️ 12.5 필드 내리기](refactoring/chapter-12/12.5.md)
-    * [✏️ 12.6 타입 코드를 서브클래스로 바꾸기 - 다시 읽기 \~](refactoring/chapter-12/12.6.md)
+    * [✏️ 12.6 타입 코드를 서브클래스로 바꾸기](refactoring/chapter-12/12.6.md)
     * [✏️ 12.7 서브클래스 제거하기](refactoring/chapter-12/12.7.md)
     * [✏️ 12.8 슈퍼클래스 추출하기](refactoring/chapter-12/12.8.md)
     * [✏️ 12.9 계층 합치기](refactoring/chapter-12/12.9.md)
