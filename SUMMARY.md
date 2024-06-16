@@ -127,3 +127,6 @@
     * [✏️ 12.9 계층 합치기](refactoring/chapter-12/12.9.md)
     * [✏️ 12.10 서브클래스를 위임으로 바꾸기](refactoring/chapter-12/12.10.md)
     * [✏️ 12.11 슈퍼클래스를 위임으로 바꾸기](refactoring/chapter-12/12.11.md)
+* [📘 이펙티브 타입스크립트](effective-typescript/README.md)
+  * [1️⃣ 타입스크립트 알아보기](effective-typescript/undefined/README.md)
+    * [📎 아이템 1 타임스크립트와 자바스크립트의 관계 이해하기](effective-typescript/undefined/1.md)
