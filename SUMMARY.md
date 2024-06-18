@@ -129,5 +129,7 @@
     * [✏️ 12.11 슈퍼클래스를 위임으로 바꾸기](refactoring/chapter-12/12.11.md)
 * [📘 이펙티브 타입스크립트](effective-typescript/README.md)
   * [1️⃣ 타입스크립트 알아보기](effective-typescript/chapter1-getting-to-know-typescript/README.md)
-    * [📎 아이템 1 타임스크립트와 자바스크립트의 관계 이해하기](effective-typescript/chapter1-getting-to-know-typescript/item1-understand-the-relationship-between-typescript-and-javascript.md)
+    * [📎 아이템 1 타임스크립트와 자바스크립트의 관계 이해하기](effective-typescript/chapter1-getting-to-know-typescript/item-1-understand-the-relationship-between-typescript-and-javascript.md)
     * [📎 아이템 2 타입스크립트 설정 이해하기](effective-typescript/chapter1-getting-to-know-typescript/item-2-know-which-typescript-options-youre-using.md)
+    * [📎 아이템 3 코드 생성과 타입이 관계없음을 이해하기](effective-typescript/chapter1-getting-to-know-typescript/item-3-understand-that-code-generation-is-independent-of-types.md)
+    * [📎 아이템4 구조적 타이핑에 익숙해지기](effective-typescript/chapter1-getting-to-know-typescript/item-4-get-comfortable-with-structural-typing.md)
