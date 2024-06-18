@@ -1,4 +1,4 @@
-# 📎 아이템4 구조적 타이핑에 익숙해지기
+# 📎 아이템 4 구조적 타이핑에 익숙해지기
 
 자바스크립트는 본질적으로 덕 타이핑 기반이다.
 
@@ -112,17 +112,16 @@ function calculateLengthL1(v: Vector3D) {
 
 구조적 타이핑은 클래스와 관련된 할당문에서도 문제점이 있다.
 
-```typescript
-class C {
+<pre class="language-typescript"><code class="lang-typescript">class C {
   foo: string;
   constructor(foo: string) {
     this.foo = foo;
   }
 }
 
-const c = new C('instance of C');
-const d: C = { foo: 'object literal'}; // 정상!
-```
+<strong>const c = new C('instance of C');
+</strong>const d: C = { foo: 'object literal'}; // 정상!
+</code></pre>
 
 `d`가 `C` 타입에 할당되는 이유를 알아보자.
 
