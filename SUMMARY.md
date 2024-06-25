@@ -134,3 +134,5 @@
     * [📎 아이템 3 코드 생성과 타입이 관계없음을 이해하기](effective-typescript/chapter1-getting-to-know-typescript/item-3-independent.md)
     * [📎 아이템 4 구조적 타이핑에 익숙해지기](effective-typescript/chapter1-getting-to-know-typescript/item-4-structural.md)
     * [📎 아이템 5 any 타입 지양하기](effective-typescript/chapter1-getting-to-know-typescript/item-5-any.md)
+  * [2️⃣ 타입스크립트의 타입 시스템](effective-typescript/undefined/README.md)
+    * [📎 아이템 6 편집기를 사용하여 타입 시스템 탐색하기](effective-typescript/undefined/6.md)
