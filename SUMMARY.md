@@ -137,6 +137,7 @@
   * [2️⃣ 타입스크립트의 타입 시스템](effective-typescript/undefined/README.md)
     * [📎 아이템 6 편집기를 사용하여 타입 시스템 탐색하기](effective-typescript/undefined/6.md)
     * [📎 아이템 7 타입이 값들의 집합이라고 생각하기](effective-typescript/chapter-2-typescripts-type-system/item-7-types-as-sets.md)
+    * [📎 아이템 8 타입 공간과 값 공간의 심벌 구분하기](effective-typescript/chapter-2-typescripts-type-system/item-8type-value-space.md)
     * [📎 아이템 9 타입 단언보다는 타입 선언을 사용하기](effective-typescript/chapter-2-typescripts-type-system/itme-9-prefer-declarations-to-assertions.md)
     * [📎 아이템 10 객체 래퍼 타입 피하기](effective-typescript/chapter-2-typescripts-type-system/item-6-avoid-object-wrapper-types.md)
     * [📎 아이템 11 잉여 속성 체크의 한계 인지하기](effective-typescript/chapter-2-typescripts-type-system/item-11-excess-property-checking.md)
