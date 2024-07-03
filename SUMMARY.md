@@ -141,3 +141,4 @@
     * [📎 아이템 9 타입 단언보다는 타입 선언을 사용하기](effective-typescript/chapter-2-typescripts-type-system/itme-9-prefer-declarations-to-assertions.md)
     * [📎 아이템 10 객체 래퍼 타입 피하기](effective-typescript/chapter-2-typescripts-type-system/item-6-avoid-object-wrapper-types.md)
     * [📎 아이템 11 잉여 속성 체크의 한계 인지하기](effective-typescript/chapter-2-typescripts-type-system/item-11-excess-property-checking.md)
+    * [📎 아이템 12 함수 표현식에 타입 적용하기](effective-typescript/chapter-2-typescripts-type-system/12.md)
