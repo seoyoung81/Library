@@ -144,3 +144,4 @@
     * [📎 아이템 12 함수 표현식에 타입 적용하기](effective-typescript/chapter-2-typescripts-type-system/item-12-type-entire-functions.md)
     * [📎 아이템 13 타입과 인터페이스의 차이점 알기](effective-typescript/chapter-2-typescripts-type-system/item-13-type-vs-interface.md)
     * [📎 아이템 14 타입 연산과 제너릭 사용으로 반복 줄이기](effective-typescript/chapter-2-typescripts-type-system/item-14-map-between-types.md)
+    * [📎 아이템 15 동적 데이터에 인덱스 시그니처 사용하기](effective-typescript/chapter-2-typescripts-type-system/item-15-index-for-dynamic.md)
