@@ -146,3 +146,4 @@
     * [📎 아이템 14 타입 연산과 제너릭 사용으로 반복 줄이기](effective-typescript/chapter-2-typescripts-type-system/item-14-map-between-types.md)
     * [📎 아이템 15 동적 데이터에 인덱스 시그니처 사용하기](effective-typescript/chapter-2-typescripts-type-system/item-15-index-for-dynamic.md)
     * [📎 아이템 16 number 인덱스 시그니처보다는 Array, 튜플, ArrayLike를 사용하기](effective-typescript/chapter-2-typescripts-type-system/item-16-array-tuple-arraylike.md)
+    * [📎 아이템 17 변경 관련된 오류 방지를 위해 readonly 사용하기](effective-typescript/chapter-2-typescripts-type-system/item-17-readonly.md)
