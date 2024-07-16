@@ -2,7 +2,7 @@
 
 자바스크립트는 이상하게 동작하기로 유명한 언어이다. 그중 가장 악명 높은 것은 암시적 타입 강제와 관련된 부분이다.
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="228"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="228"><figcaption></figcaption></figure>
 
 암시적 타입 강제와 관련된 문제는 대부분 === 와 !== 를 사용해서 해결이 가능하다.
 
@@ -16,11 +16,11 @@
 
 더 복잡한 객체를 키로 사용하려면 `toString` 메서드가 호출되어 객체가 문자열로 변환된다.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="298"><figcaption><p>'1, 2, 3' 이 문자열로 변환되었다.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="298"><figcaption><p>'1, 2, 3' 이 문자열로 변환되었다.</p></figcaption></figure>
 
 특히, 숫자는 키로 사용할 수 없다. 만약 속성 이름으로 숫자를 사용하려고 하면, 자바스크립트 런타임은 문자열로 변환한다.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="262"><figcaption><p>{ '1': 2, '3': 4}</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="262"><figcaption><p>{ '1': 2, '3': 4}</p></figcaption></figure>
 
 배열을 보자. 배열은 분명히 객체이므로 숫자 인덱스를 사용하는 것이 당연하다.
 

@@ -35,7 +35,7 @@ function greet(who: string) {
 
 : string은 타입스크립트에서 쓰이는 타입 구문이다. 타입 구문을 사용하는 순간부터 자바스크립트는 타입스크립트 영역으로 들어가게된다.
 
-&#x20;![](<../../.gitbook/assets/image (1) (1).png>)
+&#x20;![](<../../.gitbook/assets/image (1) (1) (1).png>)
 
 타입스크립트 컴파일러는 타입스크립트뿐만 아니라 일반 자바스크립트 프로그램에도 유용하다.
 
@@ -151,7 +151,7 @@ const states: State[] = [
 
 이 내용을 정리하면, 벤 다이어그램에서 새로운 영역을 추가할 수 있다. 평소 작성하는 타입스크립트 코드가 이 영역에 해당한다. 타입 체크에서 오류가 발생하지 않도록 타입스크립트 코드를 작성하기 때문이다.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="329"><figcaption><p>모든 자바스크립트는 타입스크립트이지만, 일부 자바스크립트(그리고 타입스크립트)만이 타입체크를 통과합니다.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" width="329"><figcaption><p>모든 자바스크립트는 타입스크립트이지만, 일부 자바스크립트(그리고 타입스크립트)만이 타입체크를 통과합니다.</p></figcaption></figure>
 
 ### 🧷  타입스크립트 타입 시스템은 자바스크립트의 런타임 동작을 '모델링'한다.&#x20;
 
