@@ -36,11 +36,11 @@ const wyoming: TState = {
   // ~~~~~~~ Object literal may only specify known properties,
   //         and 'population' does not exist in type 'TState'
   // ... 형식은 'Tstate' 형식에 할당할 수 없다.
-  // 개체 리터럴은 알려진 속성만 지정할 수 있으며, 'TState' 형식에 'populatio'dl djqtek.
+  // 개체 리터럴은 알려진 속성만 지정할 수 있으며, 'TState' 형식에 'populatio'이 없다.
 };
 ```
 
-🔗 인텍스 시그니처는 인터페이스와 타입에서 모두 사용할 수 있다.
+🔗 인덱스 시그니처는 인터페이스와 타입에서 모두 사용할 수 있다.
 
 ```typescript
 type TDict = { [key: string]: string };

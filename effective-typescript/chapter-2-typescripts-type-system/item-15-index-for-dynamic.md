@@ -72,7 +72,7 @@ function parseCSV(input: string): {[columnName: string]: string}[] {
 }
 ```
 
-일반적인 상황에서 열 이름이 무엇인지 미리 알 방법이 없으므로 인덱스 시그니처를 사용한다. 특정한 상황에 parseCSV가 사용된다면, 미리 선언해 둔 타입으로 단언문을 사용한다.
+일반적인 상황에서 열 이름이 무엇인지 미리 알 방법이 없으므로 인덱스 시그니처를 사용한다. 특정한 상황에 `parseCSV`가 사용된다면, 미리 선언해 둔 타입으로 단언문을 사용한다.
 
 ```typescript
 interface ProductRow {
