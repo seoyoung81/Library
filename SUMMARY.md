@@ -151,3 +151,6 @@
   * [3️⃣ 타입 추론](effective-typescript/type-inference/README.md)
     * [📎 아이템 19 추론 가능한 타입을 사용해 장황한 코드 방지하기](effective-typescript/type-inference/item-19-avoid-inferable.md)
     * [📎 아이템 20 다른 타입에는 다른 변수 사용하기](effective-typescript/type-inference/item-20-one-var-one-type.md)
+    * [📎 아이템 21 타입 넓히기](effective-typescript/type-inference/item-21-widening.md)
+    * [📎 아이템 22 타입 좁히기](effective-typescript/type-inference/item-22-narrowing.md)
+    * [📎 아이템 23 한꺼번에 객체 생성하기](effective-typescript/type-inference/item-23-all-at-once.md)
