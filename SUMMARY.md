@@ -154,3 +154,4 @@
     * [📎 아이템 21 타입 넓히기](effective-typescript/chapter-3-type-inference/item-21-widening.md)
     * [📎 아이템 22 타입 좁히기](effective-typescript/chapter-3-type-inference/item-22-narrowing.md)
     * [📎 아이템 23 한꺼번에 객체 생성하기](effective-typescript/chapter-3-type-inference/item-23-all-at-once.md)
+    * [📎 아이템 24 일관성 있는 별칭 사용하기](effective-typescript/chapter-3-type-inference/24.md)
