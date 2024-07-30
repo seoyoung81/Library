@@ -157,3 +157,4 @@
     * [📎 아이템 24 일관성 있는 별칭 사용하기](effective-typescript/chapter-3-type-inference/item-24-avoid-aliasing.md)
     * [📎 아이템 25 비동기 코드에는 콜백 대신 async 함수 사용하기](effective-typescript/chapter-3-type-inference/item-25-use-async-await.md)
     * [📎 아이템 26 타입 추론에 문맥이 어떻게 사용되는지 이해하기](effective-typescript/chapter-3-type-inference/item-26-context-inference.md)
+    * [📎 아이템 27 함수형 기법과 라이브러리로 타입 흐름 유지하기](effective-typescript/chapter-3-type-inference/item-27-functional-libraries.md)
