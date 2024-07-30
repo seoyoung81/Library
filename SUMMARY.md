@@ -160,3 +160,4 @@
     * [📎 아이템 27 함수형 기법과 라이브러리로 타입 흐름 유지하기](effective-typescript/chapter-3-type-inference/item-27-functional-libraries.md)
   * [4️⃣ 타입 설계](effective-typescript/chapter-4-type-design/README.md)
     * [📎 아이템 28 유효한 상태만 표현하는 타입을 지향하기](effective-typescript/chapter-4-type-design/item-28-valid-states.md)
+    * [📎 아이템 29 사용할 때는 너그럽게, 생성할 때는 엄격하게](effective-typescript/chapter-4-type-design/item-29-loose-accept-strict-produce.md)
