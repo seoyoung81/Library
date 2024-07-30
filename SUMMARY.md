@@ -161,3 +161,4 @@
   * [4️⃣ 타입 설계](effective-typescript/chapter-4-type-design/README.md)
     * [📎 아이템 28 유효한 상태만 표현하는 타입을 지향하기](effective-typescript/chapter-4-type-design/item-28-valid-states.md)
     * [📎 아이템 29 사용할 때는 너그럽게, 생성할 때는 엄격하게](effective-typescript/chapter-4-type-design/item-29-loose-accept-strict-produce.md)
+    * [📎 아이템 30 문서에 타입 정보를 쓰지 않기](effective-typescript/chapter-4-type-design/item-30-jsdoc-repeat.md)
