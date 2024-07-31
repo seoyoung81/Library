@@ -164,3 +164,4 @@
     * [📎 아이템 30 문서에 타입 정보를 쓰지 않기](effective-typescript/chapter-4-type-design/item-30-jsdoc-repeat.md)
     * [📎 아이템 31 타입 주변에 null 값 배치하기](effective-typescript/chapter-4-type-design/item-31-null-values-to-perimeter.md)
     * [📎 아이템 32 유니온의 인터페이스보다는 인터페이스의 유니온을 사용하기](effective-typescript/chapter-4-type-design/item-32-union-of-interfaces.md)
+    * [📎 아이템 33 string 타입보다 더 구체적인 타입 사용하기](effective-typescript/chapter-4-type-design/item-33-avoid-strings.md)
