@@ -163,3 +163,4 @@
     * [📎 아이템 29 사용할 때는 너그럽게, 생성할 때는 엄격하게](effective-typescript/chapter-4-type-design/item-29-loose-accept-strict-produce.md)
     * [📎 아이템 30 문서에 타입 정보를 쓰지 않기](effective-typescript/chapter-4-type-design/item-30-jsdoc-repeat.md)
     * [📎 아이템 31 타입 주변에 null 값 배치하기](effective-typescript/chapter-4-type-design/item-31-null-values-to-perimeter.md)
+    * [📎 아이템 32 유니온의 인터페이스보다는 인터페이스의 유니온을 사용하기](effective-typescript/chapter-4-type-design/item-32-union-of-interfaces.md)
