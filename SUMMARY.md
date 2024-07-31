@@ -166,3 +166,4 @@
     * [📎 아이템 32 유니온의 인터페이스보다는 인터페이스의 유니온을 사용하기](effective-typescript/chapter-4-type-design/item-32-union-of-interfaces.md)
     * [📎 아이템 33 string 타입보다 더 구체적인 타입 사용하기](effective-typescript/chapter-4-type-design/item-33-avoid-strings.md)
     * [📎 아이템 34 부정확한 타입보다는 미완성 타입을 사용하기](effective-typescript/chapter-4-type-design/34.md)
+    * [📎 아이템 35 데이터가 아닌, API와 명세를 보고 타입 만들기](effective-typescript/chapter-4-type-design/35-api.md)
