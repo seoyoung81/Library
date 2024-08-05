@@ -168,3 +168,4 @@
     * [📎 아이템 34 부정확한 타입보다는 미완성 타입을 사용하기](effective-typescript/chapter-4-type-design/34.md)
     * [📎 아이템 35 데이터가 아닌, API와 명세를 보고 타입 만들기](effective-typescript/chapter-4-type-design/35-api.md)
     * [📎 아이템 36 해당 분야의 용어로 타입 이름 짓기](effective-typescript/chapter-4-type-design/item-36-language-of-domain.md)
+    * [📎 아이템 37 공식 명칭에는 상표를 붙이기](effective-typescript/chapter-4-type-design/item-37.md)
