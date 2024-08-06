@@ -172,3 +172,4 @@
   * [5️⃣ any 다루기](effective-typescript/chapter-5-any/README.md)
     * [📎 아이템 38 any 타입은 가능한 한 좁은 범위에서만 사용하기](effective-typescript/chapter-5-any/item-38-narrowest-any.md)
     * [📎 아이템 39 any를 구체적으로 변형해서 사용하기](effective-typescript/chapter-5-any/item-39-specific-any.md)
+    * [📎 아이템 40 함수 안으로 타입 단언문 감추기](effective-typescript/chapter-5-any/item-40-hide.md)
