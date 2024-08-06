@@ -169,3 +169,5 @@
     * [📎 아이템 35 데이터가 아닌, API와 명세를 보고 타입 만들기](effective-typescript/chapter-4-type-design/35-api.md)
     * [📎 아이템 36 해당 분야의 용어로 타입 이름 짓기](effective-typescript/chapter-4-type-design/item-36-language-of-domain.md)
     * [📎 아이템 37 공식 명칭에는 상표를 붙이기](effective-typescript/chapter-4-type-design/item-37.md)
+  * [5️⃣ any 다루기](effective-typescript/chapter-5-any/README.md)
+    * [📎 아이템 38 any 타입은 가능한 한 좁은 범위에서만 사용하기](effective-typescript/chapter-5-any/item-38-narrowest-any.md)
