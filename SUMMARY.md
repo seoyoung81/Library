@@ -174,3 +174,4 @@
     * [📎 아이템 39 any를 구체적으로 변형해서 사용하기](effective-typescript/chapter-5-any/item-39-specific-any.md)
     * [📎 아이템 40 함수 안으로 타입 단언문 감추기](effective-typescript/chapter-5-any/item-40-hide.md)
     * [📎 아이템 41 any의 진화를 이해하기](effective-typescript/chapter-5-any/item-41-understand-any-evolution.md)
+    * [📎 아이템 42 모르는 타입의 값에는 any 대신 unkown을 사용하기](effective-typescript/chapter-5-any/item-42-never-unknown.md)
