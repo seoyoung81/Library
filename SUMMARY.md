@@ -176,3 +176,4 @@
     * [📎 아이템 41 any의 진화를 이해하기](effective-typescript/chapter-5-any/item-41-understand-any-evolution.md)
     * [📎 아이템 42 모르는 타입의 값에는 any 대신 unkown을 사용하기](effective-typescript/chapter-5-any/item-42-never-unknown.md)
     * [📎 아이템 43 몽키 패치보다는 안전한 타입을 사용하기](effective-typescript/chapter-5-any/item-43-type-safe-monkey.md)
+    * [📎 아이템 44 타입 커버리지를 추적하여 타입 안전성 유지하기](effective-typescript/chapter-5-any/44.md)
