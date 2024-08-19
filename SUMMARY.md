@@ -179,3 +179,4 @@
     * [📎 아이템 44 타입 커버리지를 추적하여 타입 안전성 유지하기](effective-typescript/chapter-5-any/44.md)
   * [6️⃣ 타입 선언과 @types](effective-typescript/chpater-06-type-declarations-and-types/README.md)
     * [📎 아이템 45 devDependencies에 typescript와 @types 추가하기](effective-typescript/chpater-06-type-declarations-and-types/item-45-dev-dependencies.md)
+    * [📎 아이템 46 타입 선언과 관련된 세 가지 버전 이해하기](effective-typescript/chpater-06-type-declarations-and-types/item-46-three-versions.md)
