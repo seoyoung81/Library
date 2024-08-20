@@ -184,3 +184,4 @@
     * [📎 아이템 48 API 주석에 TSDoc 사용하기](effective-typescript/chpater-06-type-declarations-and-types/item-48-use-tsdoc.md)
     * [📎 아이템 49 콜백에서 this에 대한 타입 제공하기](effective-typescript/chpater-06-type-declarations-and-types/item-49-this-in-callbacks.md)
     * [📎 아이템 50 오버로딩 타입보다는 조건부 타입을 사용하기](effective-typescript/chpater-06-type-declarations-and-types/item-50-overloading.md)
+    * [📎 아이템 51 의존성 분리를 위해 미러 타입 사용하기](effective-typescript/chpater-06-type-declarations-and-types/item-51-mirror-types-for-deps.md)
