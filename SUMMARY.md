@@ -183,3 +183,4 @@
     * [📎 아이템 47 공개 API에 등장하는 모든 타입을 익스포트하기](effective-typescript/chpater-06-type-declarations-and-types/item-37-export-your-types.md)
     * [📎 아이템 48 API 주석에 TSDoc 사용하기](effective-typescript/chpater-06-type-declarations-and-types/item-48-use-tsdoc.md)
     * [📎 아이템 49 콜백에서 this에 대한 타입 제공하기](effective-typescript/chpater-06-type-declarations-and-types/item-49-this-in-callbacks.md)
+    * [📎 아이템 50 오버로딩 타입보다는 조건부 타입을 사용하기](effective-typescript/chpater-06-type-declarations-and-types/item-50-overloading.md)
