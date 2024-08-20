@@ -102,7 +102,7 @@ function processValue(value: unknown) {
 }
 ```
 
-⭐️ 사용자 정의 카드도 `unkown`에서 원하는 타입으로 변환할 수 있다.
+⭐️ 사용자 정의 카드도 `unknown`에서 원하는 타입으로 변환할 수 있다.
 
 ```typescript
 function isBook(value: unknown): value is Book {

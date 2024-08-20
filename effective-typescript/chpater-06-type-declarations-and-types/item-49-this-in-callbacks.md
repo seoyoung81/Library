@@ -32,7 +32,7 @@ method();
 Uncought TypeError: undefined의 'vals' 속성을 읽을 수 없다.
 ```
 
-`c.logSquares()`가 실제로는 두 가지 작업을 수행하기 때문에 문제가 발생한다. `C.prototype.logSquares`를 호출하고, 또한 this의 값을 c로 바인딩한다. 앞듸 코드에서는 logSquares의 참조변수를 사용함으로써 두 가지 작업을 분리 했고, this의 값은 undefined로 설정된다.
+`c.logSquares()`가 실제로는 두 가지 작업을 수행하기 때문에 문제가 발생한다. `C.prototype.logSquares`를 호출하고, 또한 <mark style="background-color:blue;">this의 값을 c로 바인딩한다</mark>. 앞듸 코드에서는 logSquares의 참조변수를 사용함으로써 두 가지 작업을 분리 했고, this의 값은 undefined로 설정된다.
 
 ## 🔗 this 바인딩 제어
 
