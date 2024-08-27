@@ -188,5 +188,6 @@
     * [📎 아이템 52 테스팅 타입의 함정에 주의하기](effective-typescript/chpater-06-type-declarations-and-types/item-52-testing-type.md)
   * [7️⃣ 코드를 작성하고 실행하기](effective-typescript/chpater-07-writing-and-running-your-code/README.md)
     * [📎 아이템 53 타입스크립트 기능보다는 ECMAScript 기능을 사용하기](effective-typescript/chpater-07-writing-and-running-your-code/item-53-avoid-non-ecma.md)
-    * [📎 아이템 54 객체를 순회하는 노하우](effective-typescript/chpater-07-writing-and-running-your-code/54.md)
-    * [📎 아이템 55 DOM 계층 구조 이해하기](effective-typescript/chpater-07-writing-and-running-your-code/55-dom.md)
+    * [📎 아이템 54 객체를 순회하는 노하우](effective-typescript/chpater-07-writing-and-running-your-code/item-54-obj.md)
+    * [📎 아이템 55 DOM 계층 구조 이해하기](effective-typescript/chpater-07-writing-and-running-your-code/item-55-dom.md)
+    * [📎 아이템 56 정보를 감추는 목적으로 private 사용하지 않기](effective-typescript/chpater-07-writing-and-running-your-code/56-private.md)
