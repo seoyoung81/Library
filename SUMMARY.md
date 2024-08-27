@@ -192,3 +192,6 @@
     * [📎 아이템 55 DOM 계층 구조 이해하기](effective-typescript/chpater-07-writing-and-running-your-code/55-dom.md)
     * [📎 아이템 56 정보를 감추는 목적으로 private 사용하지 않기](effective-typescript/chpater-07-writing-and-running-your-code/56-private.md)
     * [📎 아이템 57 소스맵을 사용하여 타입스크립트 디버깅하기](effective-typescript/chpater-07-writing-and-running-your-code/item-57-source-map.md)
+  * [8️⃣ 타입스크립트로 마이그레이션하기](effective-typescript/chapter-08-migration/README.md)
+    * [📎 아이템 58 모던 자바스크립트로 작성하기](effective-typescript/chapter-08-migration/item-58-write-modern-js.md)
+    * [📎 아이템 59 타입스크립트 도입 전에 @ts-check와 JSDoc으로 시험해보기](effective-typescript/chapter-08-migration/item-59-jsdoc-tscheck.md)
