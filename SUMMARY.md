@@ -197,3 +197,4 @@
     * [📎 아이템 59 타입스크립트 도입 전에 @ts-check와 JSDoc으로 시험해보기](effective-typescript/chapter-08-migration/item-59-jsdoc-tscheck.md)
     * [📎 아이템 60 allowJs로 타입스크립트와 자바스크립트 같이 사용하기](effective-typescript/chapter-08-migration/item-60-allowjs.md)
     * [📎 아이템 61 의존성 관계에 따라 모듈 단위로 전환하기](effective-typescript/chapter-08-migration/item-61-convert-up.md)
+    * [📎 아이템 62 마이그레이션의 완성을 위해 noImplicitAny 설정하기](effective-typescript/chapter-08-migration/item-62-noimplicitany.md)
