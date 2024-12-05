@@ -198,3 +198,8 @@
     * [📎 아이템 60 allowJs로 타입스크립트와 자바스크립트 같이 사용하기](effective-typescript/chapter-08-migration/item-60-allowjs.md)
     * [📎 아이템 61 의존성 관계에 따라 모듈 단위로 전환하기](effective-typescript/chapter-08-migration/item-61-convert-up.md)
     * [📎 아이템 62 마이그레이션의 완성을 위해 noImplicitAny 설정하기](effective-typescript/chapter-08-migration/item-62-noimplicitany.md)
+* [📔 You Don't Know JS Yet](you-dont-know-js-yet/README.md)
+  * [1️⃣ CHAPTER 1 자바스크립트](you-dont-know-js-yet/chapter-1/README.md)
+    * [💡 1.1 책에 대하여](you-dont-know-js-yet/chapter-1/1.1.md)
+    * [💡 1.2 자바스크립트 이름의 유래](you-dont-know-js-yet/chapter-1/1.2.md)
+    * [💡 1.3 명세서](you-dont-know-js-yet/chapter-1/1.3.md)

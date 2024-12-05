@@ -1,6 +1,6 @@
 # 📎 아이템 12 함수 표현식에 타입 적용하기
 
-자바스크립트와 타입스크립트에서는 함수 **'문장(statement)'**과 함수 **'표현식(expression)'**을 다르게 인식한다.
+자바스크립트와 타입스크립트에서는 함수 **'문장(statement)'**&#xACFC; 함수 **'표현식(expression)'**&#xC744; 다르게 인식한다.
 
 ```typescript
 function rollDice1(sides: number): number { /* ... */ }  // Statement

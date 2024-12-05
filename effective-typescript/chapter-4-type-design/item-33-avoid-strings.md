@@ -92,7 +92,7 @@ type RecordingType = 'live' | 'studio';
 
 매개변수를 string 대신 Recording 타입으로 바꾸면, 함수를 사용하는 곳에서 RecordingType의 설명을 볼 수 있다.
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ✓ keyof 연산자로 더욱 세밀하게 객체의 속성 체크가 가능하다.
 

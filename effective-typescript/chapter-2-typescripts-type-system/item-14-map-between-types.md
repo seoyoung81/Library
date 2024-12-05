@@ -157,7 +157,7 @@ interface TopNavState {
 
 State 내의 pageTitle 타입이 바뀌면 TopNavState에도 반영이 된다. 여전히 반복되는 코드가 존재한다.
 
-**'매핑된 타입'**을 사용하자.
+**'매핑된 타입'**&#xC744; 사용하자.
 
 ```typescript
 type TopNavState = {
@@ -204,6 +204,4 @@ type ActionType = Action['type'];
 * 타입들 간의 매핑을 위해 타입스크립트가 제공한 도구들을 공부하면 좋다. keyof, typeof, 인덱싱, 매핑된 타입들이 포함된다.
 * 제너릭 타입은 타입을 위한 함수와 같다. 타입을 반복하는 대신 제너릭 타입을 사용하여 타입들 간에 매핑을 하는 것이 좋다. 제너릭 타입을 제한하려면 extends를 사용하면 된다.
 * 표준 라이브러리에 정의된 Pick, Partial, ReturnType 같은 제너릭 타입에 익숙해지자.
-
-
 

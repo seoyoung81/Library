@@ -6,3 +6,4 @@
 
 <figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption><p><a href="effective-typescript/">이펙티브 타입스크립</a></p></figcaption></figure>
 
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p><a href="https://product.kyobobook.co.kr/detail/S000211817154">You Don't Know JS Yet | 카일 심슨</a></p></figcaption></figure>
