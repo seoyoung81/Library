@@ -206,3 +206,5 @@
     * [💡 1.4 JS의 다양한 얼굴](you-dont-know-js-yet/chapter-1/1.4-js-paradigm.md)
     * [💡 1.5 하위 호환성과 상위 호환성](you-dont-know-js-yet/chapter-1/1.5.md)
     * [💡 1.6 인터프리터 이해하기](you-dont-know-js-yet/chapter-1/1.6.md)
+    * [💡 1.7 엄격모드](you-dont-know-js-yet/chapter-1/1.7.md)
+    * [💡 1.8 정리](you-dont-know-js-yet/chapter-1/1.8.md)
