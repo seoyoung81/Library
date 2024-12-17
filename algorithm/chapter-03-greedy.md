@@ -1,4 +1,4 @@
-# CHAPTER 03 Greedy
+# 🍥 CHAPTER 03 Greedy
 
 ## 🐟 그리디 알고리즘
 
