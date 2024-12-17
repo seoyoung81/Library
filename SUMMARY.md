@@ -208,3 +208,5 @@
     * [💡 1.6 인터프리터 이해하기](you-dont-know-js-yet/chapter-1/1.6.md)
     * [💡 1.7 엄격모드](you-dont-know-js-yet/chapter-1/1.7.md)
     * [💡 1.8 정리](you-dont-know-js-yet/chapter-1/1.8.md)
+* [📗 이것이 취업을 위한 코딩 테스트다](algorithm/README.md)
+  * [CHAPTER 03 Greedy](algorithm/chapter-03-greedy.md)
