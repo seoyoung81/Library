@@ -210,6 +210,7 @@
     * [💡 1.8 정리](you-dont-know-js-yet/chapter-1-what-is-javascript/1.8.md)
   * [2️⃣ CHAPTER 2 자바스크립트 조망하기](you-dont-know-js-yet/chapter-2-surveying-js/README.md)
     * [💡 2.1 파일은 프로그램입니다](you-dont-know-js-yet/chapter-2-surveying-js/2.1.md)
+    * [💡 2.2 값](you-dont-know-js-yet/chapter-2-surveying-js/2.2.md)
 * [📗 이것이 취업을 위한 코딩 테스트다](algorithm/README.md)
   * [🍥 CHAPTER 03 Greedy](algorithm/chapter-03-greedy.md)
   * [🍥 CHAPTER 04  Implementation](algorithm/chapter-04-implementation.md)
