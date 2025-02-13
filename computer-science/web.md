@@ -16,13 +16,14 @@
 * 서버와 클라이언트 구조의 대표적인 예시가 웹 서비스
 * 클라이언트는 일종의 고객으로,
 * 서버로 요청을 보낸 뒤에 응답이 도착할 때까지 기다린다.
-*   서버로부터 응답을 받으면, 서버의 응답을 처리하여 화면에 출력한다.
+* 서버로부터 응답을 받으면, 서버의 응답을 처리하여 화면에 출력한다.
 
-    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+
 * 서버는 클라이언드로부터 받은 요청을 처리해 응답을 전송한다.
 *   게임 서버, 모바일 서버, **웹 서버** 등
 
-    <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
 * 서버가 클라이언트에게 어떠한 파일을 보내주는 것인가?
 
 #### 🧷 HTML(Hypertext Markup Language)
@@ -45,7 +46,7 @@
 
 #### 🧷 웹  브라우저의 구조
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
 #### 🧷 웹  브라우저의  동작 방식
 
@@ -82,7 +83,7 @@
 * 클라이언트는 해당 세션을 계속 유지한다. (메일함에 접속할 때도 세션 ID를 서버에 전송한다.)
 *   세션은 자신이 누구인지 서버에 알려주는 역할
 
-    <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (4).png" alt="" width="375"><figcaption></figcaption></figure>
 
 **세션 인증 방식 예시**
 
@@ -96,7 +97,7 @@
 8. 세션 ID를 통해 회원 ID 접근
 9. 해당하는 회원에 대하여 서비스(글쓰기 처리) 수행
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt="" width="375"><figcaption></figcaption></figure>
 
 **세션 방식의 특징**
 
