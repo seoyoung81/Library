@@ -215,3 +215,5 @@
     * [💡 2.4 함수](you-dont-know-js-yet/chapter-2-surveying-js/2.4.md)
     * [💡 2.5 비교](you-dont-know-js-yet/chapter-2-surveying-js/2.5.md)
     * [💡 2.6 코드 구조화 패턴](you-dont-know-js-yet/chapter-2-surveying-js/2.6.md)
+* [📗 Computer science](computer-science/README.md)
+  * [1️⃣ 웹(Web)](computer-science/web.md)
