@@ -18,7 +18,7 @@
 * 서버로 요청을 보낸 뒤에 응답이 도착할 때까지 기다린다.
 * 서버로부터 응답을 받으면, 서버의 응답을 처리하여 화면에 출력한다.
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18).png" alt="" width="375"><figcaption></figcaption></figure>
 
 * 서버는 클라이언드로부터 받은 요청을 처리해 응답을 전송한다.
 *   게임 서버, 모바일 서버, **웹 서버** 등
