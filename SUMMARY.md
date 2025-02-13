@@ -215,6 +215,3 @@
     * [💡 2.4 함수](you-dont-know-js-yet/chapter-2-surveying-js/2.4.md)
     * [💡 2.5 비교](you-dont-know-js-yet/chapter-2-surveying-js/2.5.md)
     * [💡 2.6 코드 구조화 패턴](you-dont-know-js-yet/chapter-2-surveying-js/2.6.md)
-* [📗 이것이 취업을 위한 코딩 테스트다](algorithm/README.md)
-  * [🍥 CHAPTER 03 Greedy](algorithm/chapter-03-greedy.md)
-  * [🍥 CHAPTER 04  Implementation](algorithm/chapter-04-implementation.md)

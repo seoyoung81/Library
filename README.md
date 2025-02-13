@@ -8,4 +8,4 @@
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p><a href="you-dont-know-js-yet/">YDKJS</a></p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (17).png" alt="" width="188"><figcaption><p><a href="algorithm/">알고리즘</a></p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (17).png" alt="" width="188"><figcaption><p><a href="broken-reference">알고리즘</a></p></figcaption></figure>
