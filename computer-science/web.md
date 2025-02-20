@@ -23,7 +23,7 @@
 * 서버는 클라이언드로부터 받은 요청을 처리해 응답을 전송한다.
 *   게임 서버, 모바일 서버, **웹 서버** 등
 
-    <figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 * 서버가 클라이언트에게 어떠한 파일을 보내주는 것인가?
 
 #### 🧷 HTML(Hypertext Markup Language)
@@ -171,7 +171,7 @@
 
 ex. 회원가입
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="188"><figcaption></figcaption></figure>
 
 ### 🔗 REST API
 
@@ -216,7 +216,7 @@ ex. 회원가입
 * Resource Server: 사용자의 개인정보를 가지고 있는 서버(Google, 카카오톡 등), Clinet는 Access Token을 Resource Server에 보내서 사용자의 개인정보를 얻는다.
 * Authorization Server: 실질적으로 권한 부여 기능을 담당하는 서버. 사용자는 자신의 SNS 계정 정보를 넘겨 Authorization Code를 받는다. Client는 사용자로부터 받는 Authorization Code를 넘겨 Access Token을 받는다.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## 6. JWT(JSON Web Token)
 

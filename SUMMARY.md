@@ -218,3 +218,4 @@
 * [📗 Computer science](computer-science/README.md)
   * [1️⃣ 웹(Web)](computer-science/web.md)
   * [2️⃣ 컴퓨터 구조(Computer Structure)](computer-science/computer-structure.md)
+  * [3️⃣ 데이터베이스(Database)](computer-science/database.md)

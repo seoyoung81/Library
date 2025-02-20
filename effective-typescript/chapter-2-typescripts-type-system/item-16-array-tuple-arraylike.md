@@ -16,7 +16,7 @@
 
 더 복잡한 객체를 키로 사용하려면 `toString` 메서드가 호출되어 객체가 문자열로 변환된다.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="298"><figcaption><p>'1, 2, 3' 이 문자열로 변환되었다.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="298"><figcaption><p>'1, 2, 3' 이 문자열로 변환되었다.</p></figcaption></figure>
 
 특히, 숫자는 키로 사용할 수 없다. 만약 속성 이름으로 숫자를 사용하려고 하면, 자바스크립트 런타임은 문자열로 변환한다.
 

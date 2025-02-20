@@ -18,7 +18,7 @@ let x = 12;
 
 편집기에서 x에 마우스를 올려 보면, 타입이 number로 이미 추론되어 있음을 확인할 수 있다.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="151"><figcaption><p>x의 추론된 타입은 number이다.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="151"><figcaption><p>x의 추론된 타입은 number이다.</p></figcaption></figure>
 
 ## 📍 예제 2 - 객체
 
@@ -78,7 +78,7 @@ const squares = square([1, 2, 3, 4]);
 //    ^? const squares: number[]
 ```
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="281"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="281"><figcaption></figcaption></figure>
 
 타입스크립트는 우리가 예상한 것보다 더 정확하게 추론한다.
 
