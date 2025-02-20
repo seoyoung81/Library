@@ -217,3 +217,4 @@
     * [💡 2.6 코드 구조화 패턴](you-dont-know-js-yet/chapter-2-surveying-js/2.6.md)
 * [📗 Computer science](computer-science/README.md)
   * [1️⃣ 웹(Web)](computer-science/web.md)
+  * [2️⃣ 컴퓨터 구조(Computer Structure)](computer-science/computer-structure.md)
