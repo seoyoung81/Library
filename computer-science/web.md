@@ -23,7 +23,7 @@
 * 서버는 클라이언드로부터 받은 요청을 처리해 응답을 전송한다.
 *   게임 서버, 모바일 서버, **웹 서버** 등
 
-    <figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 * 서버가 클라이언트에게 어떠한 파일을 보내주는 것인가?
 
 #### 🧷 HTML(Hypertext Markup Language)
@@ -46,7 +46,7 @@
 
 #### 🧷 웹  브라우저의 구조
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 #### 🧷 웹  브라우저의  동작 방식
 
@@ -153,3 +153,162 @@
 
 
 
+## 4. REST API
+
+### 🔗 REST(Representational State Transfer) 등장 배경
+
+* HTTP는 다양한 메서드(GET, POST, PUT, DELETE)를 지원
+* 실제로, HTTP 메서드를 기존 설명에 맞게 사용하지 않더라도 프로그램 개발은 가능하지만 개발자 사이의 소통에 문제가 발생한다.
+* 기준이 되는 아키텍처로 REST를 채택
+
+**REST 이해하기**
+
+특정한 자원에 대하여, 자원의 상태에 대한 정보를 주고받는 개발 방식
+
+* 자원: URL를 이용
+* 행위: HTTP 메서드를 이용
+* 표현: 페이로드를 이용
+
+ex. 회원가입
+
+<figure><img src="../.gitbook/assets/image.png" alt="" width="188"><figcaption></figcaption></figure>
+
+### 🔗 REST API
+
+* API(Application Programming interface): 프로그램이 상호작용하기 위한 인터페이스
+* REST API: REST 아키텍처를 따르는 API
+* REST API 호출: REST 방식을 따르고 있는 서버에 특정한 요청(request)를 전송하는 행위
+
+**REST API 연습하기**
+
+* 목킹(moking): 어떠한 기능이 있는 것처럼 흉내내어 구현한 것
+* 클라이언트 개발을 위해 간단히 서버 기능을 테스트할 때 사용
+  *    DB 연동아 안되지만, 일단 기능이 있는 것처럼 사용
+
+
+
+## 5. OAuth
+
+* Google 로그인 기능을 떠올리자.
+* 웹 서버에 Google 비밀번호를 제공하지 않고도, Google 계정의 일부 접근 궈한을 부여할 수 있다.
+* SNS 간편 로그인 기능
+
+#### **안전하지 않은 인증 방식 예시**
+
+1. Google 로그인 요청, 데이터: Google 계정 정보가 서비스로 넘어간다.
+2. 사용자의 Google 계정 로그인
+3. 사용자 정보 얻기 (서비스)
+4. 로그인 성공 응답 (사용자)
+
+→ 사용자가 서버에게 Google 아이디와 패스워드를 알려줘야 한다.
+
+#### **Acess Token 이용하기**
+
+* 사용자가 설정한 권한에 대해서만 Google 정보에 접근할 수 있도록 한다.
+
+1. 사용자에 대한 Acess Token 주기 (서비스 → 구글)
+2. 사용자 정보 얻기 (구글 → 서비스)
+
+### 🔗 OAuth 2.0 구성 요소
+
+* Resource Owner: 특정한 서비스를 사용하려고 하는 사용자로, 개인정보(Resource)의 소유자
+* Client: 특정한 개인 혹은 회사가 만든 서비스를 의미한다. 웹/앱 서버를 의미하지만, Client라고 부른다. → Google 입장에서는 Client
+* Resource Server: 사용자의 개인정보를 가지고 있는 서버(Google, 카카오톡 등), Clinet는 Access Token을 Resource Server에 보내서 사용자의 개인정보를 얻는다.
+* Authorization Server: 실질적으로 권한 부여 기능을 담당하는 서버. 사용자는 자신의 SNS 계정 정보를 넘겨 Authorization Code를 받는다. Client는 사용자로부터 받는 Authorization Code를 넘겨 Access Token을 받는다.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+
+## 6. JWT(JSON Web Token)
+
+### 🔗 JSON 형식
+
+* JavaScript Object Notation은 데이터를 주고받기 위해 사용하는 경량의 데이터 형식 중 하나
+* 키(key)와 값(value)의 쌍으로 이루어진 데이터 객체를 사용
+
+```json
+{
+    "id": "koko",
+    "password" : "1234",
+    "age" : 30,
+    "job" : [
+        "programmer",
+        "dancer"
+    ]
+}
+```
+
+### 🔗 Token 인증 방식
+
+1. 로그인 페이지 요청
+2. 로그인 페이지 응답
+3. 로그인 요청(ID, Password)
+4. 토큰 생성
+5. 토큰 응답
+6. 토큰 저장
+7. (나중에) 토큰과 함께 정보 요청
+8.  토큰 검증 및 응답
+
+    <figure><img src="../.gitbook/assets/image (2).png" alt="" width="188"><figcaption></figcaption></figure>
+
+* 토큰에 요청한 사람의 정보가 포함되며, 서버는 DB를 조회하지 않고 토큰을 검증할 수 있다.
+* 서버 내부에서는 비밀키(key) 하나만 가지고 있으면, 토큰 검증을 수행할 수 있다.
+
+### 🔗 JWT (JSON Web Token)
+
+* JWT는 인증에 필요한 정보를 암호화한 JSON 형식의 토큰
+* JWT 토큰을 HTTP 헤더에 실어 서버가 클라이언트를 식별할 수 있도록 한다.
+* 사용자가 인증을 수행하면, 서버는 다음의 정보를 가진 JWT 토큰을 발급한다.
+*   구성 요소
+
+    * Header:  사용할 해시 알고리즘 등의 메타 정보를 포함
+    * Payload: 키(key)와 값(value) 형식으로 이루어진 정보(claim)의 구성 → 이 값을 서버로 전달
+    * Signature: (헤더 + 페이로드 + 키(key)) 정보를 해싱하여 Client에게 함께 전달한다.
+
+    `xxxxxx[Header].yyyyy[Payload].zzzzz[Signature]`
+* ex.
+  * Header: {"alg": "HS256", "typ": "JWT"}
+  * Payload: {"sub": "user", "id": "admin"}
+  * Signature: 위 두 내용에 대하여 적절한 서버 키(key) 값을 더해 해싱한 값
+
+### 🔗 JWT를 이용한 인증
+
+* 나중에 사용자(client)는 자신이 받았던 JWT 토큰을 다시 서버에 전달한다.
+* 서버는 (헤더 + 페이로드 + 서버 내에 있는 키(Key))를 해싱한 값이 사용자로부터 전달받은 것과 일치하는지 체크한다.
+* 이 과정에서 서버가 가지고 있는 비밀키(secret key)를 사용한다.
+
+#### JWT 인증 원리
+
+* 사용자는 서버가 처음에 부여했던 궈한만큼의 작업을 요청할 수 있다.
+* 데이터를 변경하면 해시 값이 변경 → 악의적인 공격자가 Payload를 수정하는 것이 불가능
+  * Payload 값이 변경되면, 서버의 키를 모르므로 서명 값이 일치하지 않아 서버가 위조 여부를 알 수 있다.
+
+### 🔗 JWT 방식의 특징
+
+#### 장점
+
+* ﻿﻿세션 기반 인증 방식에 비해 서버(Server)가 DB에 세션 정보를 가지고 있을 필요가 없다.
+* ﻿﻿각 해시 값이 어떤 Header와 Payload를 가지는지 일일이 서버 DB에서 저장할 이유가 없다.
+* ﻿﻿서버에서 상태 정보를 저장하지 않아도 되므로, 무상태성(stateless)이 유지된다.
+* ﻿﻿토큰 기반이므로, 서로 다른 웹 서버에 대해서도 동작할 수 있다. (웹 브라우저의 쿠키와 다른 점)
+
+#### 단점
+
+* ﻿﻿세션에 비하여 토큰 자체의 데이터 길이가 길다.
+* ﻿﻿페이로드(payload)는 암호화되지 않으므로, 중요한 정보를 담기 적절하지 않을 수 있다.
+* ﻿﻿토큰을 탈취당하는 경우 보안상의 문제가 발생할 수 있다. (때문에 토큰에 사용 기한을 부여한다.)
+
+#### JWT 토큰의 유의사항
+
+* Payload 자체는 중간자 공격에 의해 노출 될 수 있으므로, 페이로드에는 민감 정보를 넣지 않는다.
+* 기본적으로 JWT의 목적의 정보 보호보다는
+  * 위조 방지
+  * 서버의 메모리 가용 이점 (DB 조회 필요 없음)
+
+**실제 인증 방식**
+
+1. ID와 Password를 이용해 로그인
+2. 토큰 발급
+3. Access Token을 이용해 API 요청
+4. Access Token에 문제가 없다면 데이터 응답
+5. 추후 Refresh Token으로 Access Token 재요청
+6. Access Token 재발급
